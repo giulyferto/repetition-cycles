@@ -21,5 +21,6 @@ public class ExerciseOneB {
 
             //Se muestra el resultado
             System.out.println("\nEl resultado de la suma es de: " + sum);
+
         }
     }
